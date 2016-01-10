@@ -32,7 +32,8 @@ public class HelloWorldController extends AbstractController {
 		
 		System.out.println("pusing to to to to to ");
 		
-			System.out.println(" *********************gfhgfhf6y**************************");
+
+			System.out.println(" *******************test2 gfhgfh****************************");
 	
 		System.out.println("ppppppppppppppppppppppppppppppppppppppppppppppppppppppppp ");
 		return model;
