@@ -16,6 +16,10 @@ public class HelloWorldController extends AbstractController {
 		model.addObject("msg", "hello world");
 		System.out.println("ppppppppppppppppppppppppppppppppppp ---sourve fetch");
 
+		System.out.println("------");
+		System.out.println("**00000*");
+		System.out.println("**00000*");
+		
 		return model;
 	}
 
