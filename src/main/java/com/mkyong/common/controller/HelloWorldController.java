@@ -1,5 +1,5 @@
 package com.mkyong.common.controller;
-package com.mkyong.common.controller;
+
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
@@ -26,6 +26,9 @@ public class HelloWorldController extends AbstractController {
 		
 		System.out.println("pusing to branch");
 		System.out.println("pusing to upstream");
+			System.out.println("pusing to upstream");
+				System.out.println("pusing to upstream");
+					System.out.println("pusing to upstream");
 		
 		System.out.println("============================");
 		
