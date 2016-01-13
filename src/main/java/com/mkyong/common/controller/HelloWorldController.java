@@ -1,4 +1,5 @@
 package com.mkyong.common.controller;
+package com.*;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
