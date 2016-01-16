@@ -9,6 +9,7 @@
 	
 	<!-- ,******bnvbn9mb9nnb9m99mbmn***ppppppppppppppppp******* Properties configuration , configuration , Spring MVC framework , all , check -->
 
+
 	<properties>
 		<jdk.version>1.6</jdk.version>
 		<spring.version>2.5.6</spring.version>
