@@ -17,24 +17,8 @@ public class HelloWorldController extends AbstractController {
 		model.addObject("msg", "hello world");
 
 		System.out.println("------");
-<<<<<<< HEAD
-		System.out.println("***********");
-		
-		System.out.println("pusing to branch");
-		System.out.println("pusing to upstream");
-		
-			System.out.println("------");
-		System.out.println("***********");
-		
-		System.out.println("pusing to branch");
-		System.out.println("pusing to upstream------------------");
-		System.out.println("pusing to upstream----------------------");
-		System.out.println("pusing to upstream-------------------------");
-		System.out.println("pusing to upstream----------------------------");
-=======
 		System.out.println("**00000*");
 		System.out.println("**00000*");
->>>>>>> features/test1
 		
 		System.out.println("*****************************************");
 		
