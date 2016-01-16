@@ -4,6 +4,7 @@
 	<h1>Spring MVC Hello World Example by rama krishna </h1>
 
 	<h2>${msg}</h2>
+	<h2>${msg}</h2>
 
 </body>
 </html>
