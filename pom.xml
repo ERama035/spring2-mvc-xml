@@ -15,6 +15,7 @@
 		<servletapi.version>2.5</servletapi.version>
 		
 	</properties>
+	</properties>
 	
 	<dependencies>
 
