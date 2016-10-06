@@ -14,6 +14,10 @@ public class HelloWorldController extends AbstractController {
 
 		ModelAndView model = new ModelAndView("HelloWorldPage");
 		model.addObject("msg", "hello world");
+		System.out.println(" qqqqqqqqqqqqqqqqqq ---sourve fetch");
+		System.out.println("ppppppppppppppppppppppppppppppppppp ---sourve fetch");
+		System.out.println("ppppppppppppppppppppppppppppppppppp ---sourve fetch");
+		System.out.println("ppppppppppppppppppppppppppppppppppp ---sourve fetch");
 		System.out.println("ppppppppppppppppppppppppppppppppppp ---sourve fetch");
 
 		return model;
